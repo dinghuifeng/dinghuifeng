@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dinghuifeng
 - 👀 I’m interested in everything
-- 🌱 I’m currently learning Japanese & C++
+- 🌱 I’m currently learning English & Japanese
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: xxx
 
